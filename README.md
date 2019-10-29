@@ -1,5 +1,5 @@
 # Lyrics
-This includes the lyrics of a Song called "人民不需要自由“ by Li Zhi and I have included the English translated lyrics in it
+This includes the lyrics of a Song called "People do not need freedom“ by Li Zhi and I have included the English translated lyrics in it
 
 一个兄弟来看我，带着银子和故事，他微笑着对我说，人民不需要自由
 人民不需要自由，这是最好的年代，人民不需要自由，这是最好的年代
